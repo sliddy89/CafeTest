@@ -1,2 +1,2 @@
 # CafeTest
-Concept design for fictional cafe website
+Concept design for fictional cafe website.
